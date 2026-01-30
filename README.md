@@ -96,8 +96,6 @@ Agent behavior:
     ├── Chef-AI_Agent.ipynb      # Main application notebook
     ├── onam-recipes.pdf         # Private knowledge base (PDF)
     ├── README.md                # Documentation
-    └── requirements.txt         # Dependencies
-
 ---
 
 ### 🤝 Contributing
